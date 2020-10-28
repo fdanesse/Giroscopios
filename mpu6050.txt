@@ -1,0 +1,3 @@
+https://www.prometec.net/usando-el-mpu6050/
+https://naylampmechatronics.com/blog/45_Tutorial-MPU6050-Aceler%C3%B3metro-y-Giroscopio.html
+https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050

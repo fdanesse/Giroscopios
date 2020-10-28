@@ -1,0 +1,2 @@
+https://learn.adafruit.com/adafruit-9-dof-imu-breakout
+https://learn.adafruit.com/adafruit-9-dof-imu-breakout/connecting-it-up
